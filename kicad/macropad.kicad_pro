@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "macropad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
